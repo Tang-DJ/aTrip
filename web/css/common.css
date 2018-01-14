@@ -5,3 +5,19 @@
 .header-img{
     width: 100%;
 }
+.music{
+    position: fixed;
+    right: 0;
+    z-index: 2;
+    background-color: #f8f8f8;
+    text-align: center;
+    display: none;
+}
+#music_name{
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+.p_text{
+    text-indent: 2em;
+
+}
